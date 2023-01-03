@@ -1,5 +1,6 @@
-https://img.shields.io/badge/Autor-Ricardo%20Abras-blueviolet
-https://img.shields.io/badge/Forma%C3%A7%C3%A3o-Analista%20de%20Dados-blue
+<a href="https://www.linkedin.com/in/ricardo-abras-a46055b7/" target="_blank"><img src="https://img.shields.io/badge/Autor-Ricardo%20Abras-blueviolet" target="_blank"></a>
+
+<a href="https://github.com/Rickkyz/" target="_blank"><img src="https://img.shields.io/badge/Forma%C3%A7%C3%A3o-Analista%20de%20Dados-blue  target="_blank"></a>
 
 # Ricardo Abras
 ## Analista de Dados Júnior
