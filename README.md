@@ -14,7 +14,7 @@ Background in: Python | Power BI | Data Analitics | Business Intelligence.
 <a href = "mailto:rickks@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ## Skills:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25px" height="25px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" height="50px" />
 
 ## Notebooks dos meus projetos na área Análise de Dados
 
