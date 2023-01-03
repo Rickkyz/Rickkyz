@@ -13,7 +13,7 @@ Background in: Python | Power BI | Data Analitics | Business Intelligence.
 <a href="https://www.linkedin.com/in/ricardo-abras-a46055b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:rickks@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-##Abaixo você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Data Analysis.
+## Notebooks dos meus projetos na área Análise de Dados
 
 Extraindo insights da base de dados ANAC através da Exploratory Data Analysis(EDA): https://bit.ly/3icwQQr
 
