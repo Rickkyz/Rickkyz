@@ -6,7 +6,7 @@
 
 Sempre me entusiasmei com a área de tecnologia e durante a pandemia decidi ingressar neste ramo fazendo uma graduação em Análise e Desenvolvimento de Sistemas para tentar uma mudança de carreira. Começei com pequenos trabalhos como Web Designer trabalhando com Figma, Wordpress, HTML, CSS e um pouco de Javascript. Porém, durante o curso descobri um pouco mais sobre a ciência de dados e fui conquistado. Decidi então me aprofundar no assunto e fiz uma pós-gradução em Análise de Dados e BI e me descobri profissionalmente.  Sou um Analista de Dados que adora esmiuçar os dados, tenho experiência com o uso de Knime (Análise Exploratória), Power BI e Tableau. Além disso, tenho um conhecimento básico em SQL, BigQuery, Python e R. Estou aprendendo a fazer a coleta dos dados sendo eles estruturados ou não e a construção de modelos preditivos e descritivos. No meu dia a dia tenho trabalhado mais com a visualização de dados praticando a criação de dashboards informativos, claros e objetivos. Recentemente tive a oportunidade de trabalhar com dados financeiros, covid-19 e dados sobre turismo. No momento estou procurando um emprego na área procurando crescer e aprender mais e por a disposição todo o meu conhecimento e experiência dos meus 48 anos de vida.
 
-Background in: Python | Power BI | Data Analitics | Business Intelligence.
+Background in:  Data Analitics | Business Intelligence | Web Designer | Front End | Python | Power BI.
 
 ## Contatos:
 
